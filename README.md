@@ -1,4 +1,4 @@
-# Social AI Slack Bot MVP
+# Social AI Slack Bot MV
 
 ## Overview
 
