@@ -1,8 +1,8 @@
-# Social AI Slack Bot MVP
+# SecondSpace AI Slack Bot MVP
 
 ## Overview
 
-**Social AI** is a Slack bot that helps connect people in a workspace by matching users with similar interests and automatically scheduling coffee chats or meetings between them. The bot leverages user-provided interests and (in production) integrates with Google Calendar to find the best meeting times, making workplace networking seamless and fun.
+**SecondSpace AI** is a Slack bot that helps connect people in a workspace by matching users with similar interests and automatically scheduling coffee chats or meetings between them. The bot leverages user-provided interests and (in production) integrates with Google Calendar to find the best meeting times, making workplace networking seamless and fun.
 
 ---
 
